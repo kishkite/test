@@ -1,0 +1,23 @@
+git notes:
+
+problem1: hard disk failure or computer crash
+problem2: hard to work multiple people to work on same code
+problem3: difficult to track changes, revert back to previous version
+
+version control system solves all problems
+
+solution1: the code is saved on cloud and it is guaranteed that we never lose the code. 
+store the code on the cloud and then sync the files to your local computer.
+
+solution2: golden copy is maintained on cloud.multiple people can work on same code. code merges happens using mergetool.
+
+solution3: vcs maintains version history, you can revert to any of the previous state of your code.
+
+Git is distributed control system and version history is maitained in local system and cloud
+
+GITHUB to host code is powered by git
+
+How to install git on windows:->
+
+download from  https://git-scm.com
+
